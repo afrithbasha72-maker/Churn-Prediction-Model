@@ -1,4 +1,4 @@
-# Churn-Prediction-Model
+# Customer Churn Prediction
 
 📌 Project Overview
 
